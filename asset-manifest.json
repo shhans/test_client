@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.db9a1307.css",
-    "main.js": "./static/js/main.bbf858b2.js",
+    "main.css": "./static/css/main.4e467692.css",
+    "main.js": "./static/js/main.ab0d6dad.js",
     "static/js/27.6a678bff.chunk.js": "./static/js/27.6a678bff.chunk.js",
-    "static/media/all.png": "./static/media/all.b3cfc887c377eb049545.png",
+    "static/media/all.min.png": "./static/media/all.min.b3cfc887c377eb049545.png",
     "static/media/back.jpg": "./static/media/back.d4a8f24d2056603f4af8.jpg",
     "static/media/main.ttf": "./static/media/main.df03e6c08e84510a535d.ttf",
     "static/media/map.jpg": "./static/media/map.0cfd8f00d15559d2c513.jpg",
     "static/media/map.png": "./static/media/map.5d020fbc98897e4f4efe.png",
+    "static/media/jiazai.gif": "./static/media/jiazai.f449f58b324f42924bfe.gif",
     "static/media/notice-back.png": "./static/media/notice-back.2aab51b9c3838c0f2cf9.png",
+    "static/media/u2.png": "./static/media/u2.a531363f97c02e858dc1.png",
+    "static/media/u1.png": "./static/media/u1.bd3ec06b70b362444bdb.png",
+    "static/media/u3.png": "./static/media/u3.ead51ad8da8f6aaf3ece.png",
     "static/media/stats.png": "./static/media/stats.8c35ec4d25d2b3e1a8c7.png",
     "static/media/notice-title-zh.png": "./static/media/notice-title-zh.382bdab09facccdc95dd.png",
     "static/media/notice-title.png": "./static/media/notice-title.b58d7e89a9a248dc8e97.png",
@@ -19,7 +23,10 @@
     "static/media/player-bg-hover.png": "./static/media/player-bg-hover.7536f2af32466b37e788.png",
     "static/media/frame.png": "./static/media/frame.2c4374e78be3be23a006.png",
     "static/media/player-front.png": "./static/media/player-front.0d72baac75caa4e46fa4.png",
+    "static/media/u22.png": "./static/media/u22.3400cdc207dd8d258867.png",
     "static/media/button-on.png": "./static/media/button-on.2d058c6889062816dd3e.png",
+    "static/media/u12.png": "./static/media/u12.5497a2756f00565c8e8f.png",
+    "static/media/u32.png": "./static/media/u32.911a829bdd1d267ad8af.png",
     "static/media/result-title.png": "./static/media/result-title.4ae12be82ee3168edc58.png",
     "static/media/prop21.png": "./static/media/prop21.c7c7b108b87c9e580beb.png",
     "static/media/prop22.png": "./static/media/prop22.49de803a9bcbd2bf593e.png",
@@ -39,7 +46,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.db9a1307.css",
-    "static/js/main.bbf858b2.js"
+    "static/css/main.4e467692.css",
+    "static/js/main.ab0d6dad.js"
   ]
 }
